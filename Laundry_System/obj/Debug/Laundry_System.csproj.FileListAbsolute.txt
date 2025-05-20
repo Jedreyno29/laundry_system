@@ -1,0 +1,15 @@
+c:\users\jedre\onedrive\documents\visual studio 2015\Projects\Laundry_System\Laundry_System\bin\Debug\Laundry_System.exe.config
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\bin\Debug\Laundry_System.exe
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\bin\Debug\Laundry_System.pdb
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\bin\Debug\MySql.Data.dll
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\bin\Debug\MySql.Data.xml
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.csprojResolveAssemblyReference.cache
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.Form1.resources
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.Properties.Resources.resources
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.csproj.GenerateResource.Cache
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.exe
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.pdb
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.panelDashboard.resources
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.panelOrders.resources
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.panelRegistration.resources
+C:\Users\jedre\OneDrive\Documents\Visual Studio 2015\Projects\Laundry_System\Laundry_System\obj\Debug\Laundry_System.panelService.resources
